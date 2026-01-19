@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Mithilesh Maddipati</h1>
-<h3 align="center">B.Tech CSE (AI) | Software Engineering | Problem Solving</h3>
+<div align="center">
 
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mithilesh%20Maddipati%20&textBg=false&animation=fadeIn"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Palatino+Linotype&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Software+Engineering+Aspirant;AI+and+ML+engineer;Neuro+Drive+Innovator" />
+
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mithileshmaddipati&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshmaddipati&layout=compact&theme=tokyonight" height="165"/>
   <img src="https://leetcard.jacoblin.cool/MithileshMaddipati?theme=catppuccinMocha&font=Roboto" height="165"/>
 </p>
 
